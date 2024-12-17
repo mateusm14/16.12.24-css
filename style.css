@@ -1,0 +1,28 @@
+p{ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+    font-size: 24px;
+    font-family: ;
+    background-color: aqua;
+    color: white;
+}
+
+.paragrafo {
+    font-size: 25px;
+    color: whitesmoke;
+    background-color: blue;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+#elementoUnico{
+    font-size: 22px;
+    color:whitesmoke;
+    background-color: blue;
+    text-decoration: underline;
+    line-height: 50px;
+}
+a{
+    color:aqua;
+    text-decoration: none;
+}
